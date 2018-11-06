@@ -1,0 +1,4 @@
+sa/student/JAXRSConfiguration.class
+sa/student/service/StudentService.class
+sa/student/resource/StudentResource.class
+sa/student/model/Student.class
